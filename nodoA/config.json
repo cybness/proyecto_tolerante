@@ -1,0 +1,7 @@
+{
+  "node_name": "nodeA",
+  "port": 5000,
+  "peers": {
+    "http://localhost:5001": "nodeB"
+  }
+}
